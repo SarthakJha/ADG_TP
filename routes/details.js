@@ -8,7 +8,7 @@ detailsRouter.route('/details')
     user.find()
       .then((users)=> {
         res.status(200).json(users);
-      }).catch(()=> {
+      }).catch((err)=> {
         res.status(404).json(err);
       })
   })
