@@ -1,5 +1,5 @@
 # ADG_TP
-## Sample Node Application
+## Node Mongo Application
 To run the project, follow the steps below:
 1. clone the repository (git clone https://github.com/SarthakJha/ADG_TP.git)
 2. run **npm install** in the project directory
